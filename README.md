@@ -24,5 +24,4 @@ A sleek, customizable notification UI for FiveM (QBCore), designed to enhance yo
    - Restart your server to apply the changes.
 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmj-development%2Fmj-notify&count_bg=%2334BCF6&title_bg=%23555555&icon=github.svg&icon_color=%2300efff&title=VISITORS&edge_flat=true&goal=1000)](https://hits.seeyoufarm.com)
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmj-development%2Fmj-notify&count_bg=%2334BCF6&title_bg=%23555555&icon=github.svg&icon_color=%2300efff&title=VISITORS&edge_flat=true&goal=100)](https://hits.seeyoufarm.com)
