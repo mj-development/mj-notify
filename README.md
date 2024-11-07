@@ -31,3 +31,5 @@ A sleek, customizable notification UI for FiveM (QBCore), designed to enhance yo
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmj-development%2Fmj-notify&count_bg=%2334BCF6&title_bg=%23555555&icon=github.svg&icon_color=%2300efff&title=VISITORS&edge_flat=true)](https://hits.seeyoufarm.com)
 
 **Goal:** 100 visitors | **Current Visitors:** 52
+
+[![Image of my-profile-views-counter](https://github.com/gayanvoice/my-profile-views-counter/blob/master/svg/372372861/badge.svg)](https://github.com/gayanvoice/my-profile-views-counter/blob/master/readme/372372861/week.md)
