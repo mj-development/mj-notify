@@ -22,7 +22,7 @@ https://imgur.com/qY5wBm8\
 2. Add `start mj-notify` to your `server.cfg`.
 3. Customize the notifications in `config.lua` as per your needs.
 
-![image](https://i.imgur.com/tdTjVME.png)
+![image](https://imgur.com/qY5wBm8)
 # QB-HUD-Redux v2.1
 Original idea based on the [QB-Hud](https://github.com/qbcore-framework/qb-hud) for the QB Framework.  
 Realized by [Jakats](https://github.com/Jakats) and [Kurøsår](https://github.com/Kurosar/).  
