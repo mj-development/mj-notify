@@ -2,7 +2,8 @@
 
 A sleek, customizable notification UI for FiveM (QBCore), designed to enhance your server with clear, professional notifications. MJ Notify is free and easy to integrate into any server!
 
-![image](https://imgur.com/qY5wBm8)
+![Description of Image](https://cdn.discordapp.com/attachments/1304130205765472296/1304130261956563014/pixelcut-export.png?ex=672e4574&is=672cf3f4&hm=f89c50087129725aa8ad2e61bfcaa3a2b8dd1d13d0a8d9f631f32101783d2076&)
+
 
 ## Features
 - **Customizable** notification styles
