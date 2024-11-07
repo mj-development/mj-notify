@@ -23,4 +23,4 @@ A sleek, customizable notification UI for FiveM (QBCore), designed to enhance yo
 3. ## Restart Your Server: 
    - Restart your server to apply the changes.
 
-[![Image of mj-development-profile-views-counter](https://github.com/mj-development/my-profile-views-counter/blob/master/svg/372372861/badge.svg)](https://github.com/mj-development/my-profile-views-counter/blob/master/readme/372372861/week.md)
+[![Image of mj-development-profile-views-counter](https://github.com/mj-development/views-me/blob/master/svg/372372861/badge.svg)](https://github.com/mj-development/my-profile-views-counter/blob/master/readme/372372861/week.md)
