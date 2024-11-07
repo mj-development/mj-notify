@@ -12,7 +12,7 @@ A sleek, customizable notification UI for FiveM (QBCore), designed to enhance yo
 
 ## Preview
 
-[![Preview of MJ Notify](https://www.youtube.com/watch?v=pKYESv4-OwI)
+[Watch the preview on YouTube](https://www.youtube.com/watch?v=pKYESv4-OwI)
 
 
 ### Live Demo
