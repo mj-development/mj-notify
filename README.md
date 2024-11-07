@@ -11,16 +11,17 @@ A sleek, customizable notification UI for FiveM (QBCore), designed to enhance yo
 
 [![Preview of MJ Notify](https://img.youtube.com/vi/pKYESv4-OwI/maxresdefault.jpg)](https://www.youtube.com/watch?v=pKYESv4-OwI)
 
+## ⚙️ Installation Instructions 
 
+1. ## Update Configuration: 
+   - Locate the `config.lua` file in your `qb-core` directory.  
+   - Replace the code in lines **127 to 156** with the provided code.
 
-### Live Demo
-![Demo](images/demo.gif)
+2. ## Replace Style:  
+   - Update the `style.css` file in `qb-core/html/css/` with the new `style.css` provided in this package.
 
-## Installation
-
-1. Download the repository and place it in your FiveM server resources folder.
-2. Add `start mj-notify` to your `server.cfg`.
-3. Customize the notifications in `config.lua` as per your needs.
+3. ## Restart Your Server: 
+   - Restart your server to apply the changes.
 
 ![image](https://imgur.com/qY5wBm8)
 # QB-HUD-Redux v2.1
