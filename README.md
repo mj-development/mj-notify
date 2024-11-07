@@ -23,13 +23,4 @@ A sleek, customizable notification UI for FiveM (QBCore), designed to enhance yo
 3. ## Restart Your Server: 
    - Restart your server to apply the changes.
 
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmj-development%2Fmj-notify&count_bg=%2334BCF6&title_bg=%23555555&icon=github.svg&icon_color=%2300efff&title=VISITORS&edge_flat=true&goal=100)](https://hits.seeyoufarm.com)
-
-## Visitor Count (Goal: 100)
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmj-development%2Fmj-notify&count_bg=%2334BCF6&title_bg=%23555555&icon=github.svg&icon_color=%2300efff&title=VISITORS&edge_flat=true)](https://hits.seeyoufarm.com)
-
-**Goal:** 100 visitors | **Current Visitors:** 52
-
-[![Image of my-profile-views-counter](https://github.com/gayanvoice/my-profile-views-counter/blob/master/svg/372372861/badge.svg)](https://github.com/gayanvoice/my-profile-views-counter/blob/master/readme/372372861/week.md)
+[![Image of mj-development-profile-views-counter](https://github.com/mj-development/my-profile-views-counter/blob/master/svg/372372861/badge.svg)](https://github.com/mj-development/my-profile-views-counter/blob/master/readme/372372861/week.md)
